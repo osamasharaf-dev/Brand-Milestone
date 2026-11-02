@@ -1,0 +1,21 @@
+{
+  "name": "Milestone — Where Utility Meets Design",
+  "short_name": "Milestone",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#66FFFF",
+  "theme_color": "#66FFFF",
+  "description": "Milestone (ميلستون) is a Saudi brand of premium kitchen and home appliances founded in 2024 in Riyadh: built-in ovens, hobs, hoods, refrigerators, microwaves, dishwashers and washing machines, with consultation, certified installation, official warranty and delivery across Saudi Arabia.",
+  "icons": [
+    {
+      "src": "/assets/meta/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/meta/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

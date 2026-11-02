@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://milestonechannels.netlify.app/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://milestonechannels.netlify.app/assets/meta/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://milestonechannels.netlify.app/assets/products/oven/hbfa.webp</image:loc></image:image>
+    <image:image><image:loc>https://milestonechannels.netlify.app/assets/products/refrigerator/gold.webp</image:loc></image:image>
+    <image:image><image:loc>https://milestonechannels.netlify.app/assets/products/hob/ct60-gold.webp</image:loc></image:image>
+    <image:image><image:loc>https://milestonechannels.netlify.app/assets/products/hood/dt85-gray-stainless.webp</image:loc></image:image>
+    <image:image><image:loc>https://milestonechannels.netlify.app/assets/products/microwave/hgcvc.webp</image:loc></image:image>
+    <image:image><image:loc>https://milestonechannels.netlify.app/assets/products/washing-machine/main.webp</image:loc></image:image>
+    <image:image><image:loc>https://milestonechannels.netlify.app/assets/products/dishwasher/main.webp</image:loc></image:image>
+  </url>
+</urlset>

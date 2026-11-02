@@ -1,0 +1,27 @@
+# Milestone (ميلستون)
+
+> Milestone is a Saudi brand of premium kitchen and home appliances, founded in 2024 in Riyadh. Slogan: "The Integration Art". Tagline: "Where Utility Meets Design".
+
+This site is the Milestone showroom website. Products are sold at the official online store, milestone.website.
+
+## Key pages
+- [Showroom website](https://milestonechannels.netlify.app/): brand story, appliance collection, channels and contact
+- [Official online store](https://milestone.website): every appliance, specifications, and Design Your Kitchen
+- [About Milestone](https://milestone.website/about): company story and services
+- [Full details for AI assistants](https://milestonechannels.netlify.app/llms-full.txt)
+
+## Contact
+- Phone and WhatsApp: +966 53 988 3009
+- Email: info@milestone.website
+- Showroom: Takhassusi St, King Abdullah Rd Intersection, Riyadh 12362, Saudi Arabia ([map](https://maps.app.goo.gl/PqfWhZn8Yg6EwoTQ9))
+- Hours: Saturday to Thursday, 9:00 AM to 6:00 PM
+
+## Channels
+- [Instagram](https://instagram.com/milestone.gcc)
+- [TikTok](https://tiktok.com/@milestone.gcc)
+- [Snapchat](https://snapchat.com/add/milestone.gcc)
+- [X](https://x.com/MilestoneGCC)
+- [YouTube](https://www.youtube.com/channel/UCOUVGKv4x_-1dnmVUULGrTw)
+- [Facebook](https://www.facebook.com/profile.php?id=61581055621582)
+- [LinkedIn](https://linkedin.com/in/Milestonegcc)
+- [Pinterest](https://www.pinterest.com/MilestoneGCC)
